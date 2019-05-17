@@ -1769,7 +1769,7 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
-nodemon@^1.18.10:
+nodemon@^1.19.0:
   version "1.19.0"
   resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-1.19.0.tgz#358e005549a1e9e1148cb2b9b8b28957dc4e4527"
   integrity sha512-NHKpb/Je0Urmwi3QPDHlYuFY9m1vaVfTsRZG5X73rY46xPj0JpNe8WhUGQdkDXQDOxrBNIU3JrcflE9Y44EcuA==
@@ -1949,6 +1949,11 @@ package-json@^4.0.0:
     registry-auth-token "^3.0.1"
     registry-url "^3.0.3"
     semver "^5.1.0"
+
+package@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/package/-/package-1.0.1.tgz#d25a1f99e2506dcb27d6704b83dca8a312e4edcc"
+  integrity sha1-0lofmeJQbcsn1nBLg9yooxLk7cw=
 
 parse-filepath@^1.0.1:
   version "1.0.2"
